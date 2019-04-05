@@ -6,8 +6,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
--Install Flask to run the backend. Use the following command to install flask in Windows:
->> pip install Flask
+-Install Flask to run the backend. Use the following command to install flask in Windows CMD:
+> pip install Flask
 
 -Use the following commands in Windows CMD to run the backend file:
 > set FLASK_APP=backend.py
