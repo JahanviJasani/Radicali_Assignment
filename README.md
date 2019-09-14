@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 -Use the following commands in Windows CMD to run the backend file:
 > set FLASK_APP=backend.py
+
 > flask run
 
 -Install xampp to run the frontend php file. Go to https://www.apachefriends.org/download.html to download the appropriate installer. Once installed, open the 'xampp control panel and start the Apache module. 
